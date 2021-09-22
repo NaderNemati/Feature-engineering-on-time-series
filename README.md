@@ -1,1 +1,2 @@
 # Feature-engineering-on-time-series
+A A data set of the forex market is a type of time series which include Open, High. Low and Close as more essential features. Sometimes we need to extract new features to increase accuracy. I tried to add some of the indicators and differences between Open Close High and Low as new features. Next, I tried to calculate the correlation between all features to delete high correlated ones.
